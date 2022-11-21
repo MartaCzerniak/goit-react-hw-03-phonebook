@@ -1,7 +1,7 @@
 {
   "name": "goit-react-hw-03-phonebook",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://martaczerniak.github.io/goit-react-hw-03-phonebook/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
